@@ -3,6 +3,8 @@
 
 //reg lindo
 //meu código PHP vem aqui
+//LOOSER
+//SOMOS UM CADAVER ADIADO (FERNANDO PESSOA)
 
 $pg = isset($_GET['pg']);
 

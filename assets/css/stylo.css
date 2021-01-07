@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+
+.corfundo{
+    background-color: #20242A;
+}
+
+p{
+    color: whitesmoke;
+}
+
+h3, h2{
+    color: whitesmoke;
+}
+
+.blank{
+    color: white;
+}
+
+.sert{
+    color: black;
+}
+
+.bordas{
+    border: 10px solid #113A70;
+}
+
+.circule{
+    border-radius: 20px;
+}
+
+.logus{
+    color: #343A40;
+}

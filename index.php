@@ -1,5 +1,6 @@
 <?php
 
+//reg lindo
 //meu código PHP vem aqui
 
 $pg = isset($_GET['pg']);
